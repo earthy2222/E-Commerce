@@ -13,7 +13,7 @@ nav {
 }
 
 img {
-  width: 100%;
+  width: 80%;
 }
 
 .nav__container {
@@ -123,6 +123,7 @@ button:active {
 
 .header__img--wrapper {
   padding: 20px;
+  max-width: 1024px;
 }
 
 .container {
@@ -150,6 +151,6 @@ button:active {
   flex-direction: column;
 }
 
-.highlight__img {
-  border: 4px;
+.highlight__para {
+  text-align: center;
 }
