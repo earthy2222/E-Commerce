@@ -1,1 +1,7 @@
-console.log('ksajfh')
+function openMenu() {
+    document.body
+}
+
+function closeMenu() {
+
+}
